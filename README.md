@@ -505,7 +505,9 @@ Jika tool ini membantu Anda merebut kembali resource sistem, mohon pertimbangkan
 **Ingat: Dengan kekuatan besar datang tanggung jawab besar. Gunakan dengan bijak!** 🕷️
 
 <img width="761" height="459" alt="image" src="https://github.com/user-attachments/assets/653076d3-fdec-4720-a883-9ea87f67ed8a" />
+
 <img width="619" height="263" alt="image" src="https://github.com/user-attachments/assets/63deb992-e0df-4017-866b-5d7e8ac2d468" />
+
 <img width="677" height="174" alt="image" src="https://github.com/user-attachments/assets/b8162108-9040-4b26-b081-afddbe04476d" />
 
 
