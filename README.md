@@ -1,6 +1,7 @@
 # 🔥 Force Process Killer - Bloatware Terminator v2.0
 
 (Preview at the bottom)
+
 A powerful Python script designed to aggressively terminate stubborn processes and bloatware that refuse to close normally. Perfect for cleaning up system resources and eliminating persistent background applications.
 
 ## ⚡ Features
